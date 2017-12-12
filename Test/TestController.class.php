@@ -9,7 +9,7 @@
 namespace Test;
 
 
-use Src\Converge;
+use Converge\Converge;
 
 class TestController extends Controller
 {
