@@ -1,0 +1,35 @@
+{
+
+    "name": "zzt/juhe",
+
+    "description": "一个聚合支付的demo",
+
+    "license": "MIT",
+
+    "keywords": ["converge juhe"],
+
+    "version": "1.0.0",
+
+    "authors": [
+
+        {
+
+            "name": "ZZT",
+
+            "email": "645614085@qq.com",
+			
+			"homepage" : "http://www.zhangzetao.cn"
+        }
+
+    ],
+
+    "require": {
+        "php": ">=5.3.0",
+		"yansongda/laravel-pay": "^1.0"
+    },
+
+    "autoload": {
+       "psr-4": {"Converge\\": "Src"}
+    }
+
+}
